@@ -10,14 +10,17 @@ Project consists of a interactive dashboard in Tableau to analyse factors which 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Tutorial</b>
-- <b>tableau</b> 
+- <b>Tableau</b> 
 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
-  Project Dasboard  Tutorial Original
+  Project Dashboard  Tutorial Original Version
+
+  <img src="https://i.postimg.cc/hPyScNhM/Screenshot-2026-03-12-at-09-46-30.png"/>
+  
 <p align="center">
   Project Dashboard Final Version
   https://public.tableau.com/shared/DBPKWPCS5?:display_count=n&:origin=viz_share_link
