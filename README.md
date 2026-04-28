@@ -13,10 +13,9 @@ Project consists of a interactive dashboard in Tableau to analyse factors which 
 - <b>Tableau</b> 
 
 
-<h2>Program walk-through:</h2>
+<h2>Program </h2>
 
 <p align="center">
-Launch the utility: <br/>
   Project Dashboard  Tutorial Original Version
 
   <img src="https://i.postimg.cc/hPyScNhM/Screenshot-2026-03-12-at-09-46-30.png"/>
