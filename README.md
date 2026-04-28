@@ -17,6 +17,10 @@ Project consists of a interactive dashboard in Tableau to analyse factors which 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  Project Dasboard  Tutorial Original
+
+  Project Dashboard Final Version
+
 <br />
 <br />
+
