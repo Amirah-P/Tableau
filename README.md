@@ -20,9 +20,8 @@ Launch the utility: <br/>
   Project Dasboard  Tutorial Original
 <p align="center">
   Project Dashboard Final Version
+  https://public.tableau.com/shared/DBPKWPCS5?:display_count=n&:origin=viz_share_link
+  
   <br />
   <br />
-https://public.tableau.com/shared/DBPKWPCS5?:display_count=n&:origin=viz_share_link
-<br />
-<br />
-
+  <img src="https://i.postimg.cc/g0zj8Frs/Screenshot-2025-11-24-at-19-10-52.png"/>
