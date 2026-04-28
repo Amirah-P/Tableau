@@ -24,4 +24,4 @@ Launch the utility: <br/>
   
   <br />
   <br />
-  <img src="https://i.postimg.cc/g0zj8Frs/Screenshot-2025-11-24-at-19-10-52.png"/>
+  <img src="https://i.postimg.cc/nc7kJf3y/Screenshot-2026-04-28-at-23-08-08.png"/>
